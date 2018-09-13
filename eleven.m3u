@@ -1,11 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eleven Sports",Eleven Sports 1
-https://neuclnlds47lon.akamaized.net/nlds/eleven2/elevenpt_sports1/as/live/elevenpt_sports1_hd_6000_pc.m3u8?hdntl=exp=1536847648~acl=/*~data=hdntl~hmac=fd266033c234cc5fc2c95dc725225c6bbfd61b0ed0377e5b6bf8acf0548c125f
+https://neuclnlds47lon.akamaized.net/nlds/eleven2/elevenpt_sports1/as/live/elevenpt_sports1_hd_6000_pc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eleven Sports",Eleven Sports 2
-https://neuclnlds48lon.akamaized.net/nlds/eleven2/elevenpt_sports2/as/live/elevenpt_sports2_hd_6000_pc.m3u8?hdntl=exp=1536850500~acl=/*~data=hdntl~hmac=9aa0c92a1580454203b648c5e6a52e1d270cfec65ee0a3807c70aa6b36753e7e
+https://neuclnlds48lon.akamaized.net/nlds/eleven2/elevenpt_sports2/as/live/elevenpt_sports2_hd_6000_pc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Eleven Sports",Eleven Sports 3
-https://neuclnlds52lon.akamaized.net/nlds/eleven2/elevenpt_sports3/as/live/elevenpt_sports3_hd_6000_pc.m3u8?hdntl=exp=1536850759~acl=/*~data=hdntl~hmac=d486b4215945e365c90a9d66a49da359a49cf9e9ca0fffeaa02a1491f0fd40fc
-
+https://neuclnlds52lon.akamaized.net/nlds/eleven2/elevenpt_sports3/as/live/elevenpt_sports3_hd_6000_pc.m3u8
